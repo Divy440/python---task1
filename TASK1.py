@@ -19,9 +19,3 @@ print("addition is :",c)
 print("subtraction is :",d)
 print("multiplication is :",e)
 print("division is :",f)
-
-
-
-
-
-
